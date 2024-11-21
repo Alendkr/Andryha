@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.weather.app-debug-31:/layout_fragment_hours.xml.flat",
+        "source": "com.example.weather.app-main-33:/layout/fragment_hours.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\font_arbutus_slab.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\font\\arbutus_slab.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\drawable_baseline_cloud_sync_24.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\drawable\\baseline_cloud_sync_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\layout_fragment_days.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\fragment_days.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\layout_fragment_hours.xml.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\fragment_hours.xml"
+    },
+    {
+        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.weather.app-debug-31:/layout_list_item.xml.flat",
+        "source": "com.example.weather.app-main-33:/layout/list_item.xml"
+    }
+]
