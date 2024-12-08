@@ -1,26 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-mergeDebugResources-30:\\layout\\fragment_hours.xml",
-        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\fragment_hours.xml"
+        "merged": "com.example.weather.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.weather.app-main-41:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.weather.app-mergeDebugResources-30:/layout/list_item.xml",
-        "source": "com.example.weather.app-main-33:/layout/list_item.xml"
+        "merged": "com.example.weather.app-mergeDebugResources-38:/layout/fragment_days.xml",
+        "source": "com.example.weather.app-main-41:/layout/fragment_days.xml"
     },
     {
-        "merged": "com.example.weather.app-mergeDebugResources-30:/layout/fragment_hours.xml",
-        "source": "com.example.weather.app-main-33:/layout/fragment_hours.xml"
+        "merged": "com.example.weather.app-mergeDebugResources-38:/layout/fragment_hours.xml",
+        "source": "com.example.weather.app-main-41:/layout/fragment_hours.xml"
     },
     {
-        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-mergeDebugResources-30:\\layout\\fragment_main.xml",
-        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\fragment_main.xml"
+        "merged": "com.example.weather.app-mergeDebugResources-38:/layout/fragment_main.xml",
+        "source": "com.example.weather.app-main-41:/layout/fragment_main.xml"
     },
     {
-        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-mergeDebugResources-30:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-mergeDebugResources-30:\\layout\\fragment_days.xml",
-        "source": "C:\\Users\\alend\\.gradle\\daemon\\8.7\\com.example.weather.app-main-33:\\layout\\fragment_days.xml"
+        "merged": "com.example.weather.app-mergeDebugResources-38:/layout/list_item.xml",
+        "source": "com.example.weather.app-main-41:/layout/list_item.xml"
     }
 ]

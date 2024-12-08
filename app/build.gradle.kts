@@ -52,6 +52,8 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(kotlin("script-runtime"))
-    implementation("com.squareup.picasso:picasso:2.8")
-    implementation("com.google.android.gms:play-services-location-license:12.0.1")
+    implementation(libs.androidx.fragment.ktx)
+    implementation(libs.picasso)
+    implementation (libs.androidx.lifecycle.viewmodel.ktx)
+    implementation("com.google.android.gms:play-services-location:19.0.1")
 }
