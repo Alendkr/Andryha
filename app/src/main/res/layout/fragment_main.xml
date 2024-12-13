@@ -59,8 +59,8 @@
 
             <ImageView
                 android:id="@+id/imWeather"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
                 android:src="@drawable/ic_launcher_foreground"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
@@ -81,10 +81,12 @@
                 android:id="@+id/tvCurrentTemp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
                 android:fontFamily="@font/arbutus_slab"
                 android:text="20°С"
+                android:textAlignment="center"
                 android:textColor="@color/white"
-                android:textSize="60sp"
+                android:textSize="52sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tvCity" />
@@ -96,7 +98,7 @@
                 android:fontFamily="@font/arbutus_slab"
                 android:text="Sunny"
                 android:textColor="@color/white"
-                android:textSize="24sp"
+                android:textSize="20sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tvCurrentTemp" />
@@ -115,29 +117,29 @@
 
             <ImageButton
                 android:id="@+id/ibSearch"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
                 android:layout_marginStart="10dp"
-                android:layout_marginTop="5dp"
+                android:layout_marginTop="24dp"
                 android:layout_marginBottom="8dp"
                 android:background="@null"
                 android:src="@drawable/baseline_search_24"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvMaxMin" />
+                app:layout_constraintTop_toTopOf="@+id/tvCondition" />
 
             <ImageButton
                 android:id="@+id/ibSync"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="5dp"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="24dp"
                 android:layout_marginEnd="10dp"
                 android:layout_marginBottom="8dp"
                 android:background="@null"
                 android:src="@drawable/baseline_cloud_sync_24"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvMaxMin" />
+                app:layout_constraintTop_toTopOf="@+id/tvCondition" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

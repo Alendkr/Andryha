@@ -1,4 +1,4 @@
-#Mon Dec 09 00:45:39 MSK 2024
+#Tue Dec 10 04:35:52 MSK 2024
 base.0=C\:\\Users\\alend\\AndroidStudioProjects\\Weather\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\alend\\AndroidStudioProjects\\Weather\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\alend\\AndroidStudioProjects\\Weather\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex

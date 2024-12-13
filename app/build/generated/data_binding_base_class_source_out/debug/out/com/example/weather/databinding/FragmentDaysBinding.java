@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import com.example.weather.R;
 import java.lang.NullPointerException;
@@ -14,15 +14,19 @@ import java.lang.Override;
 
 public final class FragmentDaysBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final RecyclerView rootView;
 
-  private FragmentDaysBinding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final RecyclerView rcView;
+
+  private FragmentDaysBinding(@NonNull RecyclerView rootView, @NonNull RecyclerView rcView) {
     this.rootView = rootView;
+    this.rcView = rcView;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public RecyclerView getRoot() {
     return rootView;
   }
 
@@ -47,6 +51,8 @@ public final class FragmentDaysBinding implements ViewBinding {
       throw new NullPointerException("rootView");
     }
 
-    return new FragmentDaysBinding((ConstraintLayout) rootView);
+    RecyclerView rcView = (RecyclerView) rootView;
+
+    return new FragmentDaysBinding((RecyclerView) rootView, rcView);
   }
 }
